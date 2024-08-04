@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuuR3i
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in computer programming
+- 🌱 I’m currently learning C/C++
 - I'm still a complete newbie.
 
 <!---
